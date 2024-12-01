@@ -1,0 +1,15 @@
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/workspaces/W3shools_CS/MyApp/bin/Debug/net8.0/MyApp
+/workspaces/W3shools_CS/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/workspaces/W3shools_CS/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/workspaces/W3shools_CS/MyApp/bin/Debug/net8.0/MyApp.dll
+/workspaces/W3shools_CS/MyApp/bin/Debug/net8.0/MyApp.pdb
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.dll
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.pdb
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/ref/MyApp.dll
