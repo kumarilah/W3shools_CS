@@ -1,9 +1,10 @@
-﻿using System;
+﻿using system;
 namespace MyApp {
     class Program {
         static void Main(string[] args) {
-            string myName = "Dev_Marcus";
-            Console.WriteLine(myName);
+            Console.WriteLine("Enter your password");
+            int passCode = Console.ReadLine();
+            Console.WriteLine("Your username is: " + passCode);
         }
     }
 }
