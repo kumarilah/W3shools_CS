@@ -1,6 +1,6 @@
 ﻿using System;
 namespace MyApp {
-    class program {
+    class Program {
         static void Main(static[] args) {
             Console.WriteLine("I am Dev_Marcus");
         }
