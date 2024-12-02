@@ -1,0 +1,5 @@
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/workspaces/W3shools_CS/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
